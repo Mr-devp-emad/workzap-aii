@@ -73,24 +73,6 @@ Want to build apps like this from scratch? Learn how to **vibe code the right wa
 - 🤖 **AI-Powered Development** — Build faster with Cursor and learn the right way to work with AI coding tools
 - 🎨 **Modern UI** — shadcn/ui, Tailwind CSS v4, and responsive design patterns
 
-### The PAPAFAM Community
-
-- 💬 Join thousands of developers building together
-- 🏆 Real results from graduates who landed jobs and launched products
-- 📦 Full course materials, starter code, and lifetime access
-
-### What's Included
-
-- Step-by-step video walkthroughs of real-world builds
-- Private community access
-- Code reviews and Q&A support
-- Regular new project drops
-
-👉 **[Join the PAPAFAM and start building →](https://www.papareact.com/course)**
-
----
-
-## ✨ Features
 
 ### For Job Seekers
 
