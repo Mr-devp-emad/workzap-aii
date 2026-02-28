@@ -59,9 +59,6 @@ It's a two-sided job board with two completely different experiences depending o
 - 🚀 **SaaS starter** — fork it and customize it into your own niche job board
 - 📚 **Learn real-time fullstack** — understand how Convex, Clerk, and Next.js work together
 
----
-
-## 🚀 Before We Dive In — Join the PAPAFAM!
 
 Want to build apps like this from scratch? Learn how to **vibe code the right way** with Cursor and AI.
 
